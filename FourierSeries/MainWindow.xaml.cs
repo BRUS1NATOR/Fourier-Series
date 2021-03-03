@@ -32,6 +32,8 @@ namespace FourierSeries
         {
             labelResult.Content = "";
 
+            a = Convert.ToInt32(textBoxA.Text);
+            b = Convert.ToInt32(textBoxB.Text);
             n = Convert.ToInt32(textBoxN.Text);
 
             Argument nInt = new Argument("n", n);

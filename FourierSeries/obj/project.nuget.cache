@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "KiG7xg408822XCUrM/97y+mzRzk2c/FNyGwmrYrR7W2LxNUTtcTEuu4mBSQ/QN604QgSgWx3GQLkRWCucvgMKQ==",
+  "dgSpecHash": "S/1f81QF8QjMpHaZdyUxc0OSJNTfYLyRaw6a8O2aAVyTrFeeyfxsmeS3T9YoTJC0K7d8mYsFwoDMRJF7Jf/hLg==",
   "success": true,
-  "projectFilePath": "C:\\Users\\BRUSL\\source\\repos\\FourierSeries\\FourierSeries\\FourierSeries.csproj",
+  "projectFilePath": "D:\\Fourier\\Fourier-Series\\FourierSeries\\FourierSeries.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\BRUSL\\.nuget\\packages\\mathparser.org-mxparser\\4.4.2\\mathparser.org-mxparser.4.4.2.nupkg.sha512",
     "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",

@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\BRUSL\\source\\repos\\FourierSeries\\FourierSeries\\FourierSeries.csproj": {}
+    "D:\\Fourier\\Fourier-Series\\FourierSeries\\FourierSeries.csproj": {}
   },
   "projects": {
-    "C:\\Users\\BRUSL\\source\\repos\\FourierSeries\\FourierSeries\\FourierSeries.csproj": {
+    "D:\\Fourier\\Fourier-Series\\FourierSeries\\FourierSeries.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\BRUSL\\source\\repos\\FourierSeries\\FourierSeries\\FourierSeries.csproj",
+        "projectUniqueName": "D:\\Fourier\\Fourier-Series\\FourierSeries\\FourierSeries.csproj",
         "projectName": "FourierSeries",
-        "projectPath": "C:\\Users\\BRUSL\\source\\repos\\FourierSeries\\FourierSeries\\FourierSeries.csproj",
+        "projectPath": "D:\\Fourier\\Fourier-Series\\FourierSeries\\FourierSeries.csproj",
         "packagesPath": "C:\\Users\\BRUSL\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\BRUSL\\source\\repos\\FourierSeries\\FourierSeries\\obj\\",
+        "outputPath": "D:\\Fourier\\Fourier-Series\\FourierSeries\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
